@@ -12,7 +12,7 @@ body{
     color: #fff;
 }
 .header{
-    background-image: url("./girl.png");
+    background-image: url("girl.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: 700px;
