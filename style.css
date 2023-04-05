@@ -12,8 +12,8 @@ body{
     color: #fff;
 }
 .header{
-    background-image: url("https://github.com/Thi-Shein/thithishein/blob/main/girl.png");
-    background-size: cover;
+    background-image: url("home.jpg");
+    background-size: 700px;
     background-position: right;
     background-repeat: no-repeat;
     position: relative;
