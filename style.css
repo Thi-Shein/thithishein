@@ -15,7 +15,7 @@ body{
     background-image: url("https://github.com/Thi-Shein/thithishein/blob/main/girl.png");
     background-position: right;
     background-repeat: no-repeat;
-    background-size: 700px;
+    background-size: cover;
     position: relative;
     height: 1000px;
 
