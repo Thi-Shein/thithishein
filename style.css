@@ -12,7 +12,7 @@ body{
     color: #fff;
 }
 .header{
-    background-image: url("main/girl.png");
+    background-image: url("https://github.com/Thi-Shein/thithishein/blob/main/girl.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: 700px;
@@ -270,7 +270,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url("./phone-girl.png");
+        background-image: url("https://github.com/Thi-Shein/thithishein/blob/main/phone-girl.png");
     }
     .header-text{
         margin-top: 100%;
